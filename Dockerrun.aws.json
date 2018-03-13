@@ -17,7 +17,7 @@
   "containerDefinitions": [
     {
       "name": "php-app",
-      "image": "php:fpm",
+      "image": "671092876899.dkr.ecr.us-east-1.amazonaws.com/lab-apache2:0.02",
       "essential": true,
       "memory": 128,
       "mountPoints": [
